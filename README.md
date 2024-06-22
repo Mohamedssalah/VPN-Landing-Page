@@ -13,10 +13,7 @@ To get a local copy up and running, follow these simple steps:
        (https://github.com/Mohamedssalah/VPN-Landing-Page/)
     ```
 
-2. **Navigate to the project directory**:
-    ```bash
-    cd (https://www.figma.com/design/y4g7B9BSJsuPkI101iyF5E/FREEBIES-Landingpage-LaslesVPN-(Community)?node-id=14-2))]
-    ```
+
 
 3. **Open `index.html` in your browser** to view the project.
 
