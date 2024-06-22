@@ -1,0 +1,30 @@
+.bio {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+  gap: 2rem;
+  padding: 4rem 2rem;
+  align-items: center;
+}
+.bio_pic {
+  max-width: 100%;
+}
+.bio_content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.head_content {
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 70px;
+  color: #0b132a;
+}
+.opject_content {
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #4f5665;
+}
+.content_button {
+  margin-top: 2rem;
+}

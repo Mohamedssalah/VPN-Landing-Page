@@ -1,0 +1,125 @@
+.features {
+  margin-bottom: 10rem;
+}
+.head_feature {
+  text-align: center;
+  margin-bottom: 7rem;
+  width: 380px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+.opject_content {
+  max-width: 100%;
+  margin: 0 auto;
+}
+.spanmonth {
+  color: #4d4d4fe1;
+}
+.boxs {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  background-color: #ffffff;
+  width: 330px;
+  height: 700px;
+  border: 2px solid #dddddd;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  padding: 7rem 5rem 0rem 5rem;
+  max-width: 100%;
+}
+.box:hover {
+  border: 2px solid #f53838;
+}
+.top_box {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+  padding-bottom: 2rem;
+}
+.box_pic {
+  width: 120.6px;
+  height: 120.6px;
+  max-width: 100%;
+}
+.head_titel_box {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 30px;
+}
+.titel_correct {
+  font-size: 14px;
+  font-weight: 400;
+  color: #4f5665;
+}
+.bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  padding-top: 4rem;
+}
+.h1_bottom {
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: 500;
+}
+.button_titel {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 18.96px;
+  border: 2px solid #f53838;
+  color: #f53838;
+
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+  width: 177.88px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box .button_box :hover {
+  background-color: #f53838;
+  color: #ffffff;
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}
+.box_1 .bottom {
+  margin-top: 8rem;
+}
+.box_2 .bottom {
+  margin-top: 4rem;
+}
+.box_3 {
+  border: 2px solid #f53838;
+}
+.box_3 .bottom .button_titel {
+  color: #ffffff;
+  background-color: #f53838;
+  box-shadow: 0px 13px 55px 4px #f5383845;
+}

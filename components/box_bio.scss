@@ -1,0 +1,47 @@
+.box_with-bio {
+  width: 90%;
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(331.6px, 1fr));
+  align-self: center;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  position: relative;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  box-shadow: 0 0 20px 1px #0d102569;
+  margin-top: 8rem;
+}
+.berant_2 {
+  border-left: 2px solid #eeeff2;
+  border-right: 2px solid #eeeff2;
+}
+.content_box {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  padding: 4rem;
+  justify-content: center;
+  //   flex-wrap: wrap;
+}
+.box_icon {
+  width: 55px;
+  height: 55px;
+}
+.titel_icon {
+  display: flex;
+  flex-direction: column;
+}
+.head_titel {
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 30px;
+}
+.opj_titel {
+  font-size: 20px;
+  font-weight: 400;
+}

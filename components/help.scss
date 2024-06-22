@@ -1,0 +1,77 @@
+.help {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding-top: 10rem;
+  align-items: center;
+  margin-top: 9rem;
+}
+.help::before {
+  content: "";
+  position: absolute;
+  width: 98vw;
+  justify-self: center;
+  height: 563.12px;
+  background-color: #f8f8f8;
+  background-size: cover;
+  z-index: -1;
+}
+.logo_contint {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.logo_pic {
+  width: 149px;
+  max-width: 100%;
+}
+.icons_help {
+  margin-left: -2rem;
+}
+.icons_help :nth-last-child(2) {
+  margin-left: -2rem;
+  margin-right: -2rem;
+}
+.opj_help {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 30px;
+  color: #4f5665;
+}
+.opj_help span {
+  font-size: 18px;
+  font-weight: 600;
+}
+.footer {
+  font-size: 16px;
+  font-weight: 400;
+  color: #afb5c0;
+  margin-top: -2rem;
+}
+.helps_links {
+  display: flex;
+  gap: 10rem;
+  flex-wrap: wrap;
+}
+.pearant_name {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 30px;
+  color: #0b132a;
+}
+.pearants {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.links_list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.link_help {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #4f5665;
+}
