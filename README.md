@@ -10,7 +10,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone [https://github.com/Mohamedssalah/](https://github.com/Mohamedssalah/VPN-Landing-Page/)
+       [https://github.com/Mohamedssalah/](https://github.com/Mohamedssalah/VPN-Landing-Page/)
     ```
 
 2. **Navigate to the project directory**:
