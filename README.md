@@ -31,7 +31,7 @@ To get a local copy up and running, follow these simple steps:
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling the content.
 - **Flexbox**: For flexible and responsive layout design.
-
+- **GRid**: For flexible and responsive layout design.
 
 ## Project Structure
 
